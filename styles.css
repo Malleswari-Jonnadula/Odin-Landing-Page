@@ -235,6 +235,22 @@ h3.action{
 
   .image-1 img {
     width: 80%;
+     max-width: 300px;
+  }
+   .image-1 p {
+    font-size: 18px;
+    text-align: center;
+  }
+
+  /* About Me */
+  .about-me {
+    height: auto;
+    padding: 20px;
+  }
+  .cse {
+    padding: 0 15px;
+    font-size: 18px;
+    text-align: center;
   }
 
   .but {
@@ -252,5 +268,6 @@ h3.action{
     flex-direction: column;
     gap: 15px;
   }
+
 }
 
