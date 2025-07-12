@@ -9,7 +9,6 @@ This is a simple and clean **portfolio landing page** built as part of [The Odin
 - Responsive header with navigation
 - Hero section with personal introduction and image
 - About Me section with achievements and background
-- Call-to-action section with GitHub link
 - Footer with social icons (GitHub & LinkedIn)
 
 ---
